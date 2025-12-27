@@ -1,0 +1,7 @@
+{
+  "project_name": "EVM Balance Checker",
+  "randomize_order": false,
+  "global_delay_seconds": [3, 5],
+  "wallet_delay_seconds": [3, 5],
+  "retry_count": 3
+}

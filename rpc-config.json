@@ -1,0 +1,19 @@
+{
+  "ethereum": "https://rpc.mevblocker.io",
+  "bsc": "https://bsc.drpc.org",
+  "polygon": "https://polygon.drpc.org",
+  "arbitrum": "https://arbitrum-one-rpc.publicnode.com",
+  "optimism": "https://optimism-rpc.publicnode.com",
+  "avalanche": "https://avalanche.drpc.org",
+  "base": "https://base.drpc.org",
+  "linea": "https://linea.drpc.org",
+  "zksync": "https://zksync.drpc.org",
+  "scroll": "https://scroll.drpc.org",
+  "celo": "https://celo.drpc.org",
+  "mantle": "https://mantle.drpc.org",
+  "blast": "https://blast.drpc.org",
+  "zora": "https://zora.drpc.org",
+  "opbnb": "https://opbnb.drpc.org",
+  "manta": "https://manta-pacific.calderachain.xyz/http",
+  "custom_networks": []
+}

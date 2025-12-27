@@ -1,0 +1,24 @@
+{
+  "name": "evm-balance-checker",
+  "version": "1.0.0",
+  "description": "EVM Balance Checker - Check balances across all EVM networks",
+  "type": "module",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "keywords": [
+    "evm",
+    "balance",
+    "checker",
+    "ethereum",
+    "blockchain"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^6.13.0",
+    "undici": "^6.19.0"
+  }
+}
+
