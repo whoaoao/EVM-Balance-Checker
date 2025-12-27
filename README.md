@@ -152,7 +152,4 @@ Ethereum, BSC, Polygon, Arbitrum, Optimism, Avalanche, Base, Linea, zkSync Era, 
 
 ---
 
-## Author
-
-TG: @who0ami11
-
+## TG: @who0ami11
