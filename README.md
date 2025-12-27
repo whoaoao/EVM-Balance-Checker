@@ -152,10 +152,7 @@ Ethereum, BSC, Polygon, Arbitrum, Optimism, Avalanche, Base, Linea, zkSync Era, 
 
 ---
 
-## License
-
-ISC
-
 ## Author
 
-Created with ❤️ for the crypto community
+TG: @who0ami11
+
